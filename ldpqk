@@ -1,0 +1,128 @@
+[33mcommit a3fe81ac3fe4ddbf3099c1fbb9fe9e31c9fda3a7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: a45e767 678c4cb
+Author: tangerine-enjoyer <lucasye5372@gmail.com>
+Date:   Tue Nov 3 14:55:49 2026 -0500
+
+    Merge pull request #4 from tangerine-enjoyer/presenter
+    
+    yayay
+
+[33mcommit 678c4cbae606d7d03194b88c0dece2ca9373e925[m[33m ([m[1;31morigin/presenter[m[33m, [m[1;32mpresenter[m[33m)[m
+Author: tangerine-enjoyer <lucasye5372@gmail.com>
+Date:   Tue Nov 3 14:54:39 2026 -0500
+
+    yayay
+
+[33mcommit a45e7676f2a67cdbe00889c42f492667c8e82baf[m
+Merge: ed31cf7 da22e47
+Author: tangerine-enjoyer <lucasye5372@gmail.com>
+Date:   Tue Nov 3 14:53:11 2026 -0500
+
+    Merge pull request #3 from tangerine-enjoyer/cry
+    
+    addLogoutUseCase() to Main.java
+
+[33mcommit da22e47b62f75ca593f872026613c89b57da46a7[m[33m ([m[1;31morigin/cry[m[33m)[m
+Author: judbox-afk <judbox.meorp@gmail.com>
+Date:   Tue Nov 3 14:51:46 2026 -0500
+
+    addLogoutUseCase() to Main.java
+
+[33mcommit ed31cf72f85fccda8f2a4df0056865440ace1e7f[m
+Merge: 2b4467e 2d639df
+Author: tangerine-enjoyer <lucasye5372@gmail.com>
+Date:   Tue Nov 3 14:31:45 2026 -0500
+
+    Merge pull request #2 from tangerine-enjoyer/yeah
+    
+    finished todos for logoutinteractor
+
+[33mcommit 2b4467e4b8a108b47894a12db693fe877c807676[m
+Merge: f8a300c d216657
+Author: tangerine-enjoyer <lucasye5372@gmail.com>
+Date:   Tue Nov 3 14:30:11 2026 -0500
+
+    Merge pull request #1 from tangerine-enjoyer/cry
+    
+    yay i did loggedInView and LogoutController (badly prob idk what im d…
+
+[33mcommit d2166571e02396214218206627bafd3d444ecbe7[m
+Author: judbox-afk <judbox.meorp@gmail.com>
+Date:   Tue Nov 3 14:23:30 2026 -0500
+
+    yay i did loggedInView and LogoutController (badly prob idk what im doing)
+
+[33mcommit 2d639df035be7a2e32934eb433c8bd2435434909[m[33m ([m[1;31morigin/yeah[m[33m)[m
+Author: tangerine-enjoyer <lucasye5372@gmail.com>
+Date:   Tue Nov 3 14:21:25 2026 -0500
+
+    finished todos for logoutinteractor
+
+[33mcommit f8a300c1602a94e3f3c42480efc66e8f0338a8ee[m
+Merge: 3dbd4af 15255bd
+Author: jcal13 <44905411+jcal13@users.noreply.github.com>
+Date:   Thu Oct 29 23:34:41 2026 -0400
+
+    Merge pull request #1 from CSC207-2026F-UofT/lab
+    
+    Lab Instructions
+
+[33mcommit 15255bd6b0864c361586a49339c631e80bbf18fc[m
+Author: Jonathan Calver <calver@cs.toronto.edu>
+Date:   Thu Oct 29 23:32:27 2026 -0400
+
+    cleaning up the lab instructions; adding new class diagram for login
+
+[33mcommit cf9839f6c6cd08851165fdeb2d28cd73ef01516f[m
+Author: Jonathan Calver <calver@cs.toronto.edu>
+Date:   Tue Oct 20 16:49:39 2026 -0400
+
+    adding the lab instructions
+
+[33mcommit 3dbd4af359606faacf535bbf4716e700d7719af3[m
+Author: Jonathan Calver <calver@cs.toronto.edu>
+Date:   Tue Oct 20 11:19:55 2026 -0400
+
+    some more clean up
+
+[33mcommit 570a5bea6236fe399d25ebdc82a1b1ff758d4181[m
+Author: Jonathan Calver <calver@cs.toronto.edu>
+Date:   Mon Oct 19 10:59:48 2026 -0400
+
+    refactoring the view model code; general clean up.
+
+[33mcommit 7c6bfa54ffb5d107b7a38e451808c76a38cf793a[m
+Author: Jonathan Calver <calver@cs.toronto.edu>
+Date:   Mon Oct 20 13:11:03 2025 -0400
+
+    added missing TODO from the LoggedInView class + diagram to the readme
+
+[33mcommit b20d8abb1744a0de25ac3a1125a7aa9f0e450e9e[m
+Author: Jonathan Calver <calver@cs.toronto.edu>
+Date:   Mon Oct 20 13:09:56 2025 -0400
+
+    added missing TODO from the LoggedInView class
+
+[33mcommit 0add7432dfd2b7e785e47b88b6adca3392cb9825[m
+Author: Jonathan Calver <calver@cs.toronto.edu>
+Date:   Sat Oct 18 23:03:42 2025 -0400
+
+    cleaning up the README
+
+[33mcommit 111083b5c4a7478710b66d837951209c4452c5e1[m
+Author: Jonathan Calver <calver@cs.toronto.edu>
+Date:   Sat Oct 18 22:52:55 2025 -0400
+
+    more tidying up, adding the logout starter code + instructions to README, and explanations of the presenters, views, and view models.
+
+[33mcommit 278cbb363ff0cf29893ce7927152ee2ccdf7fb44[m
+Author: Jonathan Calver <calver@cs.toronto.edu>
+Date:   Sat Oct 18 17:45:15 2025 -0400
+
+    cleaning up and adding initial files for the lab; files for logout use case excluded
+
+[33mcommit fca2bbe1d1185f8729022a9686b40ec92f9387a3[m
+Author: Jonathan Calver <calver@cs.toronto.edu>
+Date:   Fri Oct 17 21:20:14 2025 -0400
+
+    added ca-user-login initial files
